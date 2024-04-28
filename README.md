@@ -25,10 +25,10 @@ Utilizing **pandas** for data manipulation and **Power BI** for visualization, t
 ## Visualizations
 
 The following Power BI screenshots showcase the analysis outcomes:
-- ![Power BI Overview]('./PowerBi 1.png')
-- ![Power BI Brands Overview]('./PowerBi 2.png')
-- ![Power BI Ratings Overview]('./PowerBi 3.png')
-- ![Data Model Relationship]('./PowerBi 4.png')
+- ![Power BI Overview]('PowerBi 1.png')
+- ![Power BI Brands Overview]('PowerBi 2.png')
+- ![Power BI Ratings Overview]('PowerBi 3.png')
+- ![Data Model Relationship]('PowerBi 4.png')
 
 
 ## Notebooks
